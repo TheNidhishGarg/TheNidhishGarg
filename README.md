@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science Student (2024 – 2028)  
 📍 Delhi, India  
-💻 Interests in Web Development, DevOps, Deployment & Security  
+💻 Interests in Web Development, Deployment & GenAI 
 🚀 Curious about tech — and that’s the tagline I go with!
 
 ---
@@ -22,8 +22,8 @@ Focused on growing, building impactful projects, and achieving excellence in the
 ## 🔍 Interests
 
 - 🌐 Web Development  
-- ⚙️ DevOps & Deployment  
-- 🔐 Security  
+- ⚙️ Deployment  
+- 🔐 GenAI 
 - 🧠 Exploring new tech stacks  
 
 ---
